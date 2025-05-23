@@ -1,3 +1,0 @@
-E:/robomaster/304/text/cmake-build-debug/CMakeFiles/text.elf.dir
-E:/robomaster/304/text/cmake-build-debug/CMakeFiles/edit_cache.dir
-E:/robomaster/304/text/cmake-build-debug/CMakeFiles/rebuild_cache.dir
