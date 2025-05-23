@@ -1,0 +1,1 @@
+"E:\Clion\toolchain\arm-none-eabi\13.3 rel1\bin\arm-none-eabi-gcc.exe" -g -Wl,-gc-sections,--print-memory-usage,-Map=E:/robomaster/304/text/cmake-build-debug/text.map -mcpu=cortex-m3 -mthumb -mthumb-interwork -T E:/robomaster/304/text/STM32F103C8TX_FLASH.ld @CMakeFiles\text.elf.dir\objects1.rsp -o text.elf 
